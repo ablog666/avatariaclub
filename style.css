@@ -229,3 +229,8 @@ footer {
 .typer {
   color: #5d76cb;
 }
+
+.year {
+    text-align: center;
+    font-size: 13px;
+  }
