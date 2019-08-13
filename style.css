@@ -89,16 +89,14 @@ body {
   .avatar {
     border-radius: 50%;
   }
-  
   .blog-navigation {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     padding: 20px;
   
-    background-color: #9966cc;
-    border: 2px solid  ;
+    background-color: rgba(68, 112, 196, 0.7);
+    border: 5px solid #2d508f;
   
-    color: #black;
-    
+    color: #ffffff;
   }
   
   .blog-navigation h2 {
