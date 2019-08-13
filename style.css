@@ -93,7 +93,7 @@ body {
     margin-bottom: 30px;
     padding: 20px;
   
-    background-color: rgba(68, 112, 196, 0.7);
+    background-color: rgba(68, 112, 190);
     border: 5px solid #2d508f;
   
     color: #ffffff;
@@ -202,9 +202,9 @@ body {
   .partnership {
     margin: 30px 0;
     padding: 30px;
-    text-align: center;
+    text-align: ;
     color: #ffffff;
-    background-color: #4a87fa;
+    background-color: ;
     background-image: url("img/bg-partnership.svg");
   }
   
@@ -235,3 +235,6 @@ body {
       text-align: center;
       font-size: 13px;
     }
+.neq {
+  color: #white;
+}
