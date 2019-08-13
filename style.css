@@ -18,7 +18,7 @@ h2 {
   line-height: normal;
 }
 
-pre,
+
 code {
   background-color: #fafaff;
   border: 1px solid #c6c4f4;
@@ -28,7 +28,7 @@ code {
 }
 
 pre {
-  padding: 5px;
+  
 }
 
 code {
