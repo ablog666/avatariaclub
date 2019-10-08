@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
-<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if IE 8]> <html lang="ru" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="ru" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="ru"> <!--<![endif]-->  
 <head>
     <title>Avataria</title>
@@ -29,16 +29,7 @@
 
 <body data-spy="scroll">
     
-    <!---//Facebook button code-->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-    
+
     <!-- ******HEADER****** --> 
     <header id="header" class="header">  
         <div class="container">            
@@ -59,7 +50,7 @@
                 <div class="navbar-collapse collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li class="active nav-item sr-only"><a class="scrollto" href="#promo">Главная1</a></li>
-                       
+                        
                     </ul><!--//nav-->
                     <a href="obnova.html">Обновления</a>
                 </div><!--//navabr-collapse-->
@@ -67,7 +58,7 @@
         </div>
     </header><!--//header-->
     
-    <!-- ******PROMO******
+    <!-- ******Название******
 }-->
     <section id="promo" class="promo section offset-header">
             
@@ -79,32 +70,38 @@
     </section><!--//promo-->
     
     
-    <!-- ******DOCS****** --> 
+    <!-- ******Название FAQ****** --> 
     <section id="docs" class="docs section">
         <div class="container">
             <div class="docs-inner">
-            <h2 class="title text-center">Обновление</h2>            
+            <h2 class="title text-center">FAQ</h2>            
             <div class="block">
-                <h3 class="sub-title text-center">Добавление активности в клубы</h3>
+                <h3 class="sub-title text-center">Клубная активность</h3>
                 
-                        <p class="qwer">Друзья! 
-                            <br>
-
-                                <br>Сегодня мы радуем вас долгожданным обновлением в клубах! 
-                                <br>Первая активность начнется уже сегодня в 21:00 по Мск. 
-                                <br>Обновление выходит без магазинов, так как работа над ними еще ведется. Сейчас у вас есть замечательная возможность заработать рубины к выходу
-                                следующего клубного обновления 😉 
-                                <br>Проявляйте активность, открывайте сундуки, получайте награды! <a href="FAQ1.html">FAQ</a></p>
-                        <img src="image/2.png">
+                        <p class="qwer">Старт клубовой активности: 
+<br>
+                                <br>Первый сундук — 6400 очков суммарной активности всех участников клана,
+                                <br>Второй сундук — 11200 очков активности,
+                                <br>Третий сундук — 16000 очков активности. 
+                                <br>
+                                <br>(!) Для получения всех 3-х сундуков необходимо 16000 очков активности.
+                                <br>Награду получат все, кто заработал не менее 160 очков за день. Нажав на кнопку «Активность», вы сможете просмотреть, кто уже выполнил минимальную 
+                                норму в 160 единиц — появляется значок сундука возле ника. 
+                                <br>Таблица со всеми значениями также доступна для просмотра через «?» в правом верхнем углу раздела «Активность» в клубе. 
+                                <br>Чтобы получить все 3 сундука, необходимо 16000 очков. Распределять нормы можно следующим образом: необходимое количество очков делить на количество
+                                участников. 
+                                <br>
+                                <br>Пример: 16000/40 = 400 (если в клане 40 игроков состоит).</p>
+                        <img src="image/FAQ1.png">
                         
                         </div> <!--//docs-inner-->         
         </div><!--//container-->
     </section><!--//features-->
-    <!-- ******FOOTER****** --> 
+    <!-- ******Подвал****** --> 
     <footer class="footer">
         <div class="container text-center">
             <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can check out other license options via our website: themes.3rdwavemedia.com */-->
-            <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+            <small class="copyright">Designed with <i class="fa fa-heart"></i></small>
         </div><!--//container-->
     </footer><!--//footer-->
      
@@ -117,4 +114,3 @@
     <script type="text/javascript" src="assets/js/main.js"></script>       
 </body>
 </html> 
-
